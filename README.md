@@ -1,7 +1,7 @@
 <body>
     <div align="center">
         <a href="#" target="_blank">
-        <img src="thumbnail.svg" alt="Project Portfolio" width="auto">
+        <img src="Thumbnail.svg" alt="Project Portfolio" width="auto">
         </a>
     </div>
 </body>
